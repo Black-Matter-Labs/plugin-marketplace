@@ -1,0 +1,10 @@
+{
+  "name": "black-matter-labs-marketplace",
+  "version": "1.0.0",
+  "description": "Black Matter Labs plugin marketplace for Claude Code",
+  "owner": {
+    "name": "Black Matter Labs",
+    "email": "plugins@blackmatterlabs.com"
+  },
+  "plugins": []
+}
