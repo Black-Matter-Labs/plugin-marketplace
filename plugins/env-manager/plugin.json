@@ -1,0 +1,17 @@
+{
+  "name": "env-manager",
+  "version": "1.0.0",
+  "description": "Manage environment variables in Next.js projects - validate, generate examples, check for missing or unused vars",
+  "author": {
+    "name": "Black Matter Labs",
+    "email": "plugins@blackmatterlabs.com"
+  },
+  "license": "MIT",
+  "commands": {
+    "validate-env": "commands/validate-env.md",
+    "generate-env-example": "commands/generate-env-example.md",
+    "check-missing-vars": "commands/check-missing-vars.md",
+    "find-unused-vars": "commands/find-unused-vars.md"
+  },
+  "keywords": ["nextjs", "environment", "env", "variables", "configuration"]
+}

@@ -28,6 +28,17 @@
       },
       "license": "MIT",
       "source": "./plugins/nextjs-migration-assistant"
+    },
+    {
+      "name": "env-manager",
+      "description": "Manage environment variables in Next.js projects - validate configurations, generate .env.example, find missing or unused variables",
+      "version": "1.0.0",
+      "author": {
+        "name": "Black Matter Labs",
+        "email": "plugins@blackmatterlabs.com"
+      },
+      "license": "MIT",
+      "source": "./plugins/env-manager"
     }
   ]
 }
