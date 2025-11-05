@@ -1,0 +1,16 @@
+{
+  "name": "nextjs-migration-assistant",
+  "version": "1.0.0",
+  "description": "Help migrate Next.js applications from Pages Router to App Router with automated analysis and suggestions",
+  "author": {
+    "name": "Black Matter Labs",
+    "email": "plugins@blackmatterlabs.com"
+  },
+  "license": "MIT",
+  "commands": {
+    "analyze-migration": "commands/analyze-migration.md",
+    "find-pages": "commands/find-pages.md",
+    "modernize-patterns": "commands/modernize-patterns.md"
+  },
+  "keywords": ["nextjs", "migration", "app-router", "pages-router", "upgrade"]
+}
