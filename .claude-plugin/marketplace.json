@@ -6,5 +6,17 @@
     "name": "Black Matter Labs",
     "email": "plugins@blackmatterlabs.com"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "nextjs-performance-auditor",
+      "description": "Analyze Next.js applications for performance optimization opportunities including client component usage, image optimization, and bundle size analysis",
+      "version": "1.0.0",
+      "author": {
+        "name": "Black Matter Labs",
+        "email": "plugins@blackmatterlabs.com"
+      },
+      "license": "MIT",
+      "source": "./plugins/nextjs-performance-auditor"
+    }
+  ]
 }

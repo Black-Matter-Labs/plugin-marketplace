@@ -1,0 +1,16 @@
+{
+  "name": "nextjs-performance-auditor",
+  "version": "1.0.0",
+  "description": "Analyze Next.js applications for performance optimization opportunities",
+  "author": {
+    "name": "Black Matter Labs",
+    "email": "plugins@blackmatterlabs.com"
+  },
+  "license": "MIT",
+  "commands": {
+    "perf-audit": "commands/perf-audit.md",
+    "check-use-client": "commands/check-use-client.md",
+    "check-images": "commands/check-images.md"
+  },
+  "keywords": ["nextjs", "performance", "optimization", "audit", "react"]
+}
